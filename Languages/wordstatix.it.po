@@ -1,0 +1,536 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: unit1.dgc001
+msgctxt "unit1.dgc001"
+msgid "Open file"
+msgstr "Apri file"
+
+#: unit1.dgc002
+msgid "All formats|*.txt;*.odt;*.docx|Text file|*.txt|Writer files|*.odt|Word files|*.docx|All files|*"
+msgstr "Tutti i formati|*.txt;*.odt;*.docx|File di testo|*.txt|File di Writer|*.odt|File di Word|*.docx|Tutti i file|*"
+
+#: unit1.dgc003
+msgid "Save file"
+msgstr "Salva file"
+
+#: unit1.dgc004
+msgctxt "unit1.dgc004"
+msgid "Text file|*.txt|All files|*"
+msgstr "File di testo|*.txt|Tutti i file|*"
+
+#: unit1.dgc005
+msgid "Open skip list"
+msgstr "Apri lista parole da escludere"
+
+#: unit1.dgc006
+msgctxt "unit1.dgc006"
+msgid "Text file|*.txt|All files|*"
+msgstr "File di testo|*.txt|Tutti i file|*"
+
+#: unit1.dgc007
+msgid "Save skip list"
+msgstr "Salva lista parole da escludere"
+
+#: unit1.dgc008
+msgctxt "unit1.dgc008"
+msgid "Text file|*.txt|All files|*"
+msgstr "File di testo|*.txt|Tutti i file|*"
+
+#: unit1.dgc009
+msgid "Save report"
+msgstr "Salva report"
+
+#: unit1.dgc010
+msgid "Text file|*.txt|HTML file|*.html|All files|*"
+msgstr "File di testo|*.txt|File HTML|*.html|Tutti i file|*"
+
+#: unit1.dgc011
+msgid "Save statistic"
+msgstr "Salva statistica"
+
+#: unit1.dgc012
+msgid "CSV file|*.csv|All files|*"
+msgstr "File CSV|*.csv|Tutti i file|*"
+
+#: unit1.dgc013
+msgid "Save diagram"
+msgstr "Salva diagramma"
+
+#: unit1.dgc014
+msgid "JPEG file|*.jpg|PNG file|*.png|All files|*"
+msgstr "File JPEG|*.jpg|File PNG|*.png|Tutti i file|*"
+
+#: unit1.dgc015
+msgid "Open concordance"
+msgstr "Apri concordanza"
+
+#: unit1.dgc016
+msgid "WordStatix files|*.wsx|All files|*"
+msgstr "File di WordStatix|*.wsx|Tutti i file|*"
+
+#: unit1.dgc017
+msgid "Title of report"
+msgstr "Titolo del report"
+
+#: unit1.dgc018
+msgid "Insert the title of the report"
+msgstr "Inserire il titolo del report"
+
+#: unit1.dgc019
+msgid "Concordance made with WordStatix"
+msgstr "Concordanza realizzata con WordStatix"
+
+#: unit1.dgc020
+msgid "recurrences"
+msgstr "ricorrenze"
+
+#: unit1.dgc021
+msgid "Total"
+msgstr "Totale"
+
+#: unit1.dgc022
+msgid "Title of diagram"
+msgstr "Titolo del diagramma"
+
+#: unit1.dgc023
+msgid "Insert the title of the diagram."
+msgstr "Inserire il titolo del diagramma."
+
+#: unit1.man001
+msgid "manual-wordstatix.pdf"
+msgstr "manual-wordstatix-it.pdf"
+
+#: unit1.msg001
+msgid "Operation not correct."
+msgstr "Operazione non corretta."
+
+#: unit1.msg002
+msgid "Compact all paragraphs not separated by an empty line, clean the text from double spaces and check the spaces after the punctuation marks?"
+msgstr "Compattare tutti i paragrafi non separati da una riga vuota, ripulire il testo dagli spazi doppi e controllare gli spazi dopo i segni di punteggiatura?"
+
+#: unit1.msg003
+msgid "No recurrences of the text to look for."
+msgstr "Nessuna ricorrenza del testo cercato."
+
+#: unit1.msg004
+msgid "No text is selected."
+msgstr "Non è stato selezionato alcun testo."
+
+#: unit1.msg005
+msgid "Replace all the recurrences of"
+msgstr "Sostituire tutte le ricorrenze di"
+
+#: unit1.msg006
+msgid "with"
+msgstr "con"
+
+#: unit1.msg007
+msgid "in the current text?"
+msgstr "nel testo corrente?"
+
+#: unit1.msg008
+msgid "The word looked for has been replaced"
+msgstr "La parola cercata è stata sostituita"
+
+#: unit1.msg009
+msgid "times."
+msgstr "volte."
+
+#: unit1.msg010
+msgid "Create a new text and a new concordance closing the existing ones?"
+msgstr "Creare un nuovo testo e una nuova concordanza chiudendo quelli in uso?"
+
+#: unit1.msg011
+msgid "The current text has been changed but has not been saved. Reject the changes and open a new text?"
+msgstr "Il testo corrente è stato modificato ma non è stato salvato. Annullare le modifiche e aprire un nuovo testo?"
+
+#: unit1.msg012
+msgid "It is not possible to open the selected file."
+msgstr "Non è possibile aprire il file selezionato."
+
+#: unit1.msg013
+msgctxt "unit1.msg013"
+msgid "It is not possible to save the selected file."
+msgstr "Non è possibile salvare il file selezionato."
+
+#: unit1.msg014
+msgctxt "unit1.msg014"
+msgid "It is not possible to save the selected file."
+msgstr "Non è possibile salvare il file selezionato."
+
+#: unit1.msg015
+msgid "There is no word to remove."
+msgstr "Non vi è alcuna parola da rimuovere."
+
+#: unit1.msg016
+msgctxt "unit1.msg016"
+msgid "No concordance has been created."
+msgstr "Non è stata creata alcuna concordanza."
+
+#: unit1.msg017
+msgid "No words are selected."
+msgstr "Non è stata selezionata nessuna parola."
+
+#: unit1.msg018
+msgid "Associate all the recurrences of the selected words to those of the current word"
+msgstr "Associare tutte le ricorrenze delle parole selezionate a quelle della parola corrente"
+
+#: unit1.msg019
+msgid "Some changes have been made to the concordance grid. Do you want to reject them and recreate the list of words?"
+msgstr "Sono stati fatti alcuni cambiamenti nella griglia della concordanza. Annullarli e ricreare la lista delle parole?"
+
+#: unit1.msg020
+msgid "It is not possible to open the skip list."
+msgstr "Non è possibile aprire la lista delle parole da escludere."
+
+#: unit1.msg021
+msgid "It is not possible to save the skip list."
+msgstr "Non è possibile salvare la lista delle parole da escludere."
+
+#: unit1.msg022
+msgid "There is no recurrence to delete."
+msgstr "Non vi è alcuna ricorrenza da cancellare."
+
+#: unit1.msg023
+msgid "There is no selected recurrence to delete."
+msgstr "Non è stata selezionata alcuna ricorrenza da cancellare."
+
+#: unit1.msg024
+msgctxt "unit1.msg024"
+msgid "No concordance has been created."
+msgstr "Non è stata creata alcuna concordanza."
+
+#: unit1.msg025
+msgid "It is not possible to save the report."
+msgstr "Non è possibile salvare il report."
+
+#: unit1.msg026
+msgctxt "unit1.msg026"
+msgid "No statistic available."
+msgstr "Non è disponibile alcuna statistica."
+
+#: unit1.msg027
+msgctxt "unit1.msg027"
+msgid "No statistic available."
+msgstr "Non è disponibile alcuna statistica."
+
+#: unit1.msg028
+msgid "There is no statistic to save."
+msgstr "Non vi è alcuna statistica da salvare."
+
+#: unit1.msg029
+msgctxt "unit1.msg029"
+msgid "It is not possible to save the selected file."
+msgstr "Non è possibile salvare il file selezionato."
+
+#: unit1.msg030
+msgid "There is no diagram to save."
+msgstr "Non vi è alcun diagramma da salvare."
+
+#: unit1.msg031
+msgid "It is not possible to save the diagram."
+msgstr "Non è possibile salvare il diagramma."
+
+#: unit1.msg032
+msgid "No manual available in the folder of WordStatix. Download it from the website of the software:"
+msgstr "Non vi è alcun manuale nella cartella di WordStatix. Scaricarlo dal sito del software:"
+
+#: unit1.msg033
+msgid "A bookmark is not open or closed properly with double square brackets."
+msgstr "Un segnalibro non è aperto o chiuso correttamente con le doppie parentesi quadre."
+
+#: unit1.msg034
+msgid "A bookmark seems to be too long. Check the text to control that there are no unwanted double square brackets."
+msgstr "Un segnalibro sembra essere troppo lungo. Controllare il testo per verificare che non vi siano doppie parentesi quadre indesiderate."
+
+#: unit1.msg035
+msgid "A bookmark seems to be incorrect. Check the text to control that there are no unwanted double square brackets."
+msgstr "Un segnalibro sembra essere non corretto. Controllare il testo per verificare che non vi siano doppie parentesi quadre indesiderate."
+
+#: unit1.msg036
+msgid "The bookmark"
+msgstr "Il segnalibro"
+
+#: unit1.msg037
+msgid "is used more than once. Check the text and make all its recurrences unique."
+msgstr "è utilizzato più di una volta. Controllare il testo e rendere uniche tutte le sue ricorrenze."
+
+#: unit1.msg038
+msgid "Bookmarks cannot contain commas, spaces or be an asterisk. The incorrect bookmarks have been changed accordingly."
+msgstr "I segnalibri non possono contenere virgole, spazi o essere un asterisco. I segnalibri non corretti sono stati modificati di conseguenza."
+
+#: unit1.msg039
+msgid "No more recurrences of the text to look for."
+msgstr "Nessun'altra ricorrenza del testo da cercare."
+
+#: unit1.msg040
+msgctxt "unit1.msg040"
+msgid "No text available."
+msgstr "Non vi è alcun testo disponibile."
+
+#: unit1.msg041
+msgid "Replace the current concordance with a new one?"
+msgstr "Sostituire la concordanza in uso con una nuova concordanza?"
+
+#: unit1.msg042
+msgid "The concordance has been created."
+msgstr "La concordanza è stata creata."
+
+#: unit1.msg043
+msgctxt "unit1.msg043"
+msgid "Total words (without bookmarks):"
+msgstr "Parole totali (esclusi i segnalibri):"
+
+#: unit1.msg044
+msgctxt "unit1.msg044"
+msgid "Unique words:"
+msgstr "Parole uniche:"
+
+#: unit1.msg045
+msgctxt "unit1.msg045"
+msgid "Concordance done in"
+msgstr "Concordanza creata in"
+
+#: unit1.msg046
+msgid "There is no word to add to the skip list."
+msgstr "Non vi è alcuna parola da aggiungere alla lista delle parole da escludere."
+
+#: unit1.msg047
+msgctxt "unit1.msg047"
+msgid "No text available."
+msgstr "Nessun testo disponibile."
+
+#: unit1.msg048
+msgctxt "unit1.msg048"
+msgid "No concordance available."
+msgstr "Nessuna concordanza disponibile."
+
+#: unit1.msg049
+msgid "The text or the settings of the software useful to create the concordance have been changed after the last one was processed. Recreate the concordance to be able to save it along with its text."
+msgstr "Il testo o i parametri del software utili ad elaborare la concordanza sono stati modificati dopo che quest'ultima era stata creata. Ricrearla nuovamente per poterla salvare con il relativo testo."
+
+#: unit1.msg050
+msgid "It is not possibile to save the concordance."
+msgstr "Non è possibile salvare la concordanza."
+
+#: unit1.msg051
+msgid "The current text has been changed but has not been saved. Reject the changes and open a new concordance with its text?"
+msgstr "Il testo corrente è stato modificato ma non è stato salvato. Annullare le modifiche e aprire una nuova concordanza con il suo testo?"
+
+#: unit1.msg052
+msgid "The selected file was not created with WordStatix, and so cannot be opened."
+msgstr "Il file selezionato non è stato creato con WordStatix, per cui non può essere aperto."
+
+#: unit1.msg053
+msgid "It is not possibile to open the concordance."
+msgstr "Non è possibile caricare la concordanza."
+
+#: unit1.msg054
+msgctxt "unit1.msg054"
+msgid "No concordance available."
+msgstr "Nessuna concordanza disponibile."
+
+#: unit1.msg055
+msgid "No words are selected in the concordance grid."
+msgstr "Non vi sono parole selezionate nella griglia della concordanza."
+
+#: unit1.msg056
+msgctxt "unit1.msg056"
+msgid "No active statistic."
+msgstr "Non è stata creata nessuna statistica."
+
+#: unit1.msg057
+msgctxt "unit1.msg057"
+msgid "No bookmark available."
+msgstr "Nessun segnalibro disponibile."
+
+#: unit1.msg058
+msgctxt "unit1.msg058"
+msgid "At least one bookmark must be selected."
+msgstr "Almeno un segnalibro deve essere selezionato."
+
+#: unit1.msg059
+msgid "No word selected in Word 1 field."
+msgstr "Nessuna parola selezionata nel campo Parola 1"
+
+#: unit1.msg060
+msgid "The fields \"Word\" must be compiled contiguously."
+msgstr "I campi \"Parola\" devono essere compilati in modo contiguo."
+
+#: unit1.msg061
+msgid "The same word has been selected twice."
+msgstr "La stessa parola è stata selezionata due volte."
+
+#: unit1.msg062
+msgctxt "unit1.msg062"
+msgid "No active statistic."
+msgstr "Non è stata creata nessuna statistica."
+
+#: unit1.msg063
+msgctxt "unit1.msg063"
+msgid "No bookmark available."
+msgstr "Nessun segnalibro disponibile."
+
+#: unit1.msg064
+msgctxt "unit1.msg064"
+msgid "At least one bookmark must be selected."
+msgstr "Almeno un segnalibro deve essere selezionato."
+
+#: unit1.msg065
+msgctxt "unit1.msg065"
+msgid "No active statistic."
+msgstr "Non è stata creata nessuna statistica."
+
+#: unit1.msg066
+msgctxt "unit1.msg066"
+msgid "No bookmark available."
+msgstr "Nessun segnalibro disponibile."
+
+#: unit1.msg067
+msgctxt "unit1.msg067"
+msgid "At least one bookmark must be selected."
+msgstr "Almeno un segnalibro deve essere selezionato."
+
+#: unit1.sbr001
+msgctxt "unit1.sbr001"
+msgid "No active concordance."
+msgstr "Non è stata creata nessuna concordanza."
+
+#: unit1.sbr002
+msgid "The file has been opened."
+msgstr "Il file è stato aperto."
+
+#: unit1.sbr003
+msgctxt "unit1.sbr003"
+msgid "The text has been saved."
+msgstr "Il testo è stato salvato."
+
+#: unit1.sbr004
+msgctxt "unit1.sbr004"
+msgid "The text has been saved."
+msgstr "Il testo è stato salvato."
+
+#: unit1.sbr005
+msgid "The report has been saved."
+msgstr "Il report è stato salvato."
+
+#: unit1.sbr006
+msgid "The statistic has been saved."
+msgstr "La statistica è stata salvata."
+
+#: unit1.sbr007
+msgid "The diagram has been saved."
+msgstr "Il diagramma è stato salvato."
+
+#: unit1.sbr008
+msgid "Concordance interrupted."
+msgstr "La concordanza è stata interrotta."
+
+#: unit1.sbr009
+msgid "Concordance in processing, please wait."
+msgstr "Concordanza in elaborazione, attendere prego."
+
+#: unit1.sbr010
+msgctxt "unit1.sbr010"
+msgid "Concordance in processing, press Ctrl + Shift + H to stop. Analyzed words:"
+msgstr "Concordanza in elaborazione, premere Ctrl + Shift + H per interrompere il processo. Parole analizzate:"
+
+#: unit1.sbr011
+msgctxt "unit1.sbr011"
+msgid "of"
+msgstr "di"
+
+#: unit1.sbr012
+msgctxt "unit1.sbr012"
+msgid "Unique words found:"
+msgstr "Parole uniche reperite:"
+
+#: unit1.sbr013
+msgctxt "unit1.sbr013"
+msgid "Concordance in processing, press Ctrl + Shift + H to stop. Analyzed words:"
+msgstr "Concordanza in elaborazione, premere Ctrl + Shift + H per interrompere il processo. Parole analizzate:"
+
+#: unit1.sbr014
+msgctxt "unit1.sbr014"
+msgid "of"
+msgstr "di"
+
+#: unit1.sbr015
+msgctxt "unit1.sbr015"
+msgid "Unique words found:"
+msgstr "Parole uniche reperite:"
+
+#: unit1.sbr016
+msgctxt "unit1.sbr016"
+msgid "Total words (without bookmarks):"
+msgstr "Parole totali (esclusi i segnalibri):"
+
+#: unit1.sbr017
+msgctxt "unit1.sbr017"
+msgid "Unique words:"
+msgstr "Parole uniche:"
+
+#: unit1.sbr018
+msgctxt "unit1.sbr018"
+msgid "Concordance done in"
+msgstr "La concordanza è stata creata in"
+
+#: unit1.sbr019
+msgctxt "unit1.sbr019"
+msgid "No active concordance."
+msgstr "Non è stata creata nessuna concordanza."
+
+#: unit1.sbr020
+msgid "Sorting the list of words, press Ctrl + Shift + H to stop."
+msgstr "Ordinamento delle parole in corso, premere Ctrl + Shift + H per interromperlo."
+
+#: unit1.sbr021
+msgid "Filling the concordance grid, please wait."
+msgstr "Compilazione della griglia della concordanza in corso, attendere prego."
+
+#: unit1.sbr022
+msgctxt "unit1.sbr022"
+msgid "Total words (without bookmarks):"
+msgstr "Parole totali (esclusi i segnalibri):"
+
+#: unit1.sbr023
+msgctxt "unit1.sbr023"
+msgid "Unique words:"
+msgstr "Parole uniche:"
+
+#: unit1.sbr024
+msgid "Sorting interrupted."
+msgstr "L'ordinamento è stato interrotto."
+
+#: unit1.sbr025
+msgid "The concordance has been saved."
+msgstr "La concordanza è stata salvata."
+
+#: unit1.sbr026
+msgid "Opening concordance, please wait."
+msgstr "Concordanza in fase di caricamento, attendere prego."
+
+#: unit1.sbr027
+msgctxt "unit1.sbr027"
+msgid "Total words (without bookmarks):"
+msgstr "Parole totali (esclusi i segnalibri):"
+
+#: unit1.sbr028
+msgctxt "unit1.sbr028"
+msgid "Unique words:"
+msgstr "Parole uniche:"
+
+#: unit1.sbr029
+msgid "Concordance loaded in"
+msgstr "La concordanza è stata caricata in"
+
+#: unit1.srb001
+msgctxt "unit1.srb001"
+msgid "Sort by recurrences"
+msgstr "Ordina per ricorrenza"
+
+#: unit1.srb002
+msgid "Sort by words"
+msgstr "Ordina per parole"
+

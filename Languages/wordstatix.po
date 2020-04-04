@@ -1,0 +1,536 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: unit1.dgc001
+msgctxt "unit1.dgc001"
+msgid "Open file"
+msgstr ""
+
+#: unit1.dgc002
+msgid "All formats|*.txt;*.odt;*.docx|Text file|*.txt|Writer files|*.odt|Word files|*.docx|All files|*"
+msgstr ""
+
+#: unit1.dgc003
+msgid "Save file"
+msgstr ""
+
+#: unit1.dgc004
+msgctxt "unit1.dgc004"
+msgid "Text file|*.txt|All files|*"
+msgstr ""
+
+#: unit1.dgc005
+msgid "Open skip list"
+msgstr ""
+
+#: unit1.dgc006
+msgctxt "unit1.dgc006"
+msgid "Text file|*.txt|All files|*"
+msgstr ""
+
+#: unit1.dgc007
+msgid "Save skip list"
+msgstr ""
+
+#: unit1.dgc008
+msgctxt "unit1.dgc008"
+msgid "Text file|*.txt|All files|*"
+msgstr ""
+
+#: unit1.dgc009
+msgid "Save report"
+msgstr ""
+
+#: unit1.dgc010
+msgid "Text file|*.txt|HTML file|*.html|All files|*"
+msgstr ""
+
+#: unit1.dgc011
+msgid "Save statistic"
+msgstr ""
+
+#: unit1.dgc012
+msgid "CSV file|*.csv|All files|*"
+msgstr ""
+
+#: unit1.dgc013
+msgid "Save diagram"
+msgstr ""
+
+#: unit1.dgc014
+msgid "JPEG file|*.jpg|PNG file|*.png|All files|*"
+msgstr ""
+
+#: unit1.dgc015
+msgid "Open concordance"
+msgstr ""
+
+#: unit1.dgc016
+msgid "WordStatix files|*.wsx|All files|*"
+msgstr ""
+
+#: unit1.dgc017
+msgid "Title of report"
+msgstr ""
+
+#: unit1.dgc018
+msgid "Insert the title of the report"
+msgstr ""
+
+#: unit1.dgc019
+msgid "Concordance made with WordStatix"
+msgstr ""
+
+#: unit1.dgc020
+msgid "recurrences"
+msgstr ""
+
+#: unit1.dgc021
+msgid "Total"
+msgstr ""
+
+#: unit1.dgc022
+msgid "Title of diagram"
+msgstr ""
+
+#: unit1.dgc023
+msgid "Insert the title of the diagram."
+msgstr ""
+
+#: unit1.man001
+msgid "manual-wordstatix.pdf"
+msgstr ""
+
+#: unit1.msg001
+msgid "Operation not correct."
+msgstr ""
+
+#: unit1.msg002
+msgid "Compact all paragraphs not separated by an empty line, clean the text from double spaces and check the spaces after the punctuation marks?"
+msgstr ""
+
+#: unit1.msg003
+msgid "No recurrences of the text to look for."
+msgstr ""
+
+#: unit1.msg004
+msgid "No text is selected."
+msgstr ""
+
+#: unit1.msg005
+msgid "Replace all the recurrences of"
+msgstr ""
+
+#: unit1.msg006
+msgid "with"
+msgstr ""
+
+#: unit1.msg007
+msgid "in the current text?"
+msgstr ""
+
+#: unit1.msg008
+msgid "The word looked for has been replaced"
+msgstr ""
+
+#: unit1.msg009
+msgid "times."
+msgstr ""
+
+#: unit1.msg010
+msgid "Create a new text and a new concordance closing the existing ones?"
+msgstr ""
+
+#: unit1.msg011
+msgid "The current text has been changed but has not been saved. Reject the changes and open a new text?"
+msgstr ""
+
+#: unit1.msg012
+msgid "It is not possible to open the selected file."
+msgstr ""
+
+#: unit1.msg013
+msgctxt "unit1.msg013"
+msgid "It is not possible to save the selected file."
+msgstr ""
+
+#: unit1.msg014
+msgctxt "unit1.msg014"
+msgid "It is not possible to save the selected file."
+msgstr ""
+
+#: unit1.msg015
+msgid "There is no word to remove."
+msgstr ""
+
+#: unit1.msg016
+msgctxt "unit1.msg016"
+msgid "No concordance has been created."
+msgstr ""
+
+#: unit1.msg017
+msgid "No words are selected."
+msgstr ""
+
+#: unit1.msg018
+msgid "Associate all the recurrences of the selected words to those of the current word"
+msgstr ""
+
+#: unit1.msg019
+msgid "Some changes have been made to the concordance grid. Do you want to reject them and recreate the list of words?"
+msgstr ""
+
+#: unit1.msg020
+msgid "It is not possible to open the skip list."
+msgstr ""
+
+#: unit1.msg021
+msgid "It is not possible to save the skip list."
+msgstr ""
+
+#: unit1.msg022
+msgid "There is no recurrence to delete."
+msgstr ""
+
+#: unit1.msg023
+msgid "There is no selected recurrence to delete."
+msgstr ""
+
+#: unit1.msg024
+msgctxt "unit1.msg024"
+msgid "No concordance has been created."
+msgstr ""
+
+#: unit1.msg025
+msgid "It is not possible to save the report."
+msgstr ""
+
+#: unit1.msg026
+msgctxt "unit1.msg026"
+msgid "No statistic available."
+msgstr ""
+
+#: unit1.msg027
+msgctxt "unit1.msg027"
+msgid "No statistic available."
+msgstr ""
+
+#: unit1.msg028
+msgid "There is no statistic to save."
+msgstr ""
+
+#: unit1.msg029
+msgctxt "unit1.msg029"
+msgid "It is not possible to save the selected file."
+msgstr ""
+
+#: unit1.msg030
+msgid "There is no diagram to save."
+msgstr ""
+
+#: unit1.msg031
+msgid "It is not possible to save the diagram."
+msgstr ""
+
+#: unit1.msg032
+msgid "No manual available in the folder of WordStatix. Download it from the website of the software:"
+msgstr ""
+
+#: unit1.msg033
+msgid "A bookmark is not open or closed properly with double square brackets."
+msgstr ""
+
+#: unit1.msg034
+msgid "A bookmark seems to be too long. Check the text to control that there are no unwanted double square brackets."
+msgstr ""
+
+#: unit1.msg035
+msgid "A bookmark seems to be incorrect. Check the text to control that there are no unwanted double square brackets."
+msgstr ""
+
+#: unit1.msg036
+msgid "The bookmark"
+msgstr ""
+
+#: unit1.msg037
+msgid "is used more than once. Check the text and make all its recurrences unique."
+msgstr ""
+
+#: unit1.msg038
+msgid "Bookmarks cannot contain commas, spaces or be an asterisk. The incorrect bookmarks have been changed accordingly."
+msgstr ""
+
+#: unit1.msg039
+msgid "No more recurrences of the text to look for."
+msgstr ""
+
+#: unit1.msg040
+msgctxt "unit1.msg040"
+msgid "No text available."
+msgstr ""
+
+#: unit1.msg041
+msgid "Replace the current concordance with a new one?"
+msgstr ""
+
+#: unit1.msg042
+msgid "The concordance has been created."
+msgstr ""
+
+#: unit1.msg043
+msgctxt "unit1.msg043"
+msgid "Total words (without bookmarks):"
+msgstr ""
+
+#: unit1.msg044
+msgctxt "unit1.msg044"
+msgid "Unique words:"
+msgstr ""
+
+#: unit1.msg045
+msgctxt "unit1.msg045"
+msgid "Concordance done in"
+msgstr ""
+
+#: unit1.msg046
+msgid "There is no word to add to the skip list."
+msgstr ""
+
+#: unit1.msg047
+msgctxt "unit1.msg047"
+msgid "No text available."
+msgstr ""
+
+#: unit1.msg048
+msgctxt "unit1.msg048"
+msgid "No concordance available."
+msgstr ""
+
+#: unit1.msg049
+msgid "The text or the settings of the software useful to create the concordance have been changed after the last one was processed. Recreate the concordance to be able to save it along with its text."
+msgstr ""
+
+#: unit1.msg050
+msgid "It is not possibile to save the concordance."
+msgstr ""
+
+#: unit1.msg051
+msgid "The current text has been changed but has not been saved. Reject the changes and open a new concordance with its text?"
+msgstr ""
+
+#: unit1.msg052
+msgid "The selected file was not created with WordStatix, and so cannot be opened."
+msgstr ""
+
+#: unit1.msg053
+msgid "It is not possibile to open the concordance."
+msgstr ""
+
+#: unit1.msg054
+msgctxt "unit1.msg054"
+msgid "No concordance available."
+msgstr ""
+
+#: unit1.msg055
+msgid "No words are selected in the concordance grid."
+msgstr ""
+
+#: unit1.msg056
+msgctxt "unit1.msg056"
+msgid "No active statistic."
+msgstr ""
+
+#: unit1.msg057
+msgctxt "unit1.msg057"
+msgid "No bookmark available."
+msgstr ""
+
+#: unit1.msg058
+msgctxt "unit1.msg058"
+msgid "At least one bookmark must be selected."
+msgstr ""
+
+#: unit1.msg059
+msgid "No word selected in Word 1 field."
+msgstr ""
+
+#: unit1.msg060
+msgid "The fields \"Word\" must be compiled contiguously."
+msgstr ""
+
+#: unit1.msg061
+msgid "The same word has been selected twice."
+msgstr ""
+
+#: unit1.msg062
+msgctxt "unit1.msg062"
+msgid "No active statistic."
+msgstr ""
+
+#: unit1.msg063
+msgctxt "unit1.msg063"
+msgid "No bookmark available."
+msgstr ""
+
+#: unit1.msg064
+msgctxt "unit1.msg064"
+msgid "At least one bookmark must be selected."
+msgstr ""
+
+#: unit1.msg065
+msgctxt "unit1.msg065"
+msgid "No active statistic."
+msgstr ""
+
+#: unit1.msg066
+msgctxt "unit1.msg066"
+msgid "No bookmark available."
+msgstr ""
+
+#: unit1.msg067
+msgctxt "unit1.msg067"
+msgid "At least one bookmark must be selected."
+msgstr ""
+
+#: unit1.sbr001
+msgctxt "unit1.sbr001"
+msgid "No active concordance."
+msgstr ""
+
+#: unit1.sbr002
+msgid "The file has been opened."
+msgstr ""
+
+#: unit1.sbr003
+msgctxt "unit1.sbr003"
+msgid "The text has been saved."
+msgstr ""
+
+#: unit1.sbr004
+msgctxt "unit1.sbr004"
+msgid "The text has been saved."
+msgstr ""
+
+#: unit1.sbr005
+msgid "The report has been saved."
+msgstr ""
+
+#: unit1.sbr006
+msgid "The statistic has been saved."
+msgstr ""
+
+#: unit1.sbr007
+msgid "The diagram has been saved."
+msgstr ""
+
+#: unit1.sbr008
+msgid "Concordance interrupted."
+msgstr ""
+
+#: unit1.sbr009
+msgid "Concordance in processing, please wait."
+msgstr ""
+
+#: unit1.sbr010
+msgctxt "unit1.sbr010"
+msgid "Concordance in processing, press Ctrl + Shift + H to stop. Analyzed words:"
+msgstr ""
+
+#: unit1.sbr011
+msgctxt "unit1.sbr011"
+msgid "of"
+msgstr ""
+
+#: unit1.sbr012
+msgctxt "unit1.sbr012"
+msgid "Unique words found:"
+msgstr ""
+
+#: unit1.sbr013
+msgctxt "unit1.sbr013"
+msgid "Concordance in processing, press Ctrl + Shift + H to stop. Analyzed words:"
+msgstr ""
+
+#: unit1.sbr014
+msgctxt "unit1.sbr014"
+msgid "of"
+msgstr ""
+
+#: unit1.sbr015
+msgctxt "unit1.sbr015"
+msgid "Unique words found:"
+msgstr ""
+
+#: unit1.sbr016
+msgctxt "unit1.sbr016"
+msgid "Total words (without bookmarks):"
+msgstr ""
+
+#: unit1.sbr017
+msgctxt "unit1.sbr017"
+msgid "Unique words:"
+msgstr ""
+
+#: unit1.sbr018
+msgctxt "unit1.sbr018"
+msgid "Concordance done in"
+msgstr ""
+
+#: unit1.sbr019
+msgctxt "unit1.sbr019"
+msgid "No active concordance."
+msgstr ""
+
+#: unit1.sbr020
+msgid "Sorting the list of words, press Ctrl + Shift + H to stop."
+msgstr ""
+
+#: unit1.sbr021
+msgid "Filling the concordance grid, please wait."
+msgstr ""
+
+#: unit1.sbr022
+msgctxt "unit1.sbr022"
+msgid "Total words (without bookmarks):"
+msgstr ""
+
+#: unit1.sbr023
+msgctxt "unit1.sbr023"
+msgid "Unique words:"
+msgstr ""
+
+#: unit1.sbr024
+msgid "Sorting interrupted."
+msgstr ""
+
+#: unit1.sbr025
+msgid "The concordance has been saved."
+msgstr ""
+
+#: unit1.sbr026
+msgid "Opening concordance, please wait."
+msgstr ""
+
+#: unit1.sbr027
+msgctxt "unit1.sbr027"
+msgid "Total words (without bookmarks):"
+msgstr ""
+
+#: unit1.sbr028
+msgctxt "unit1.sbr028"
+msgid "Unique words:"
+msgstr ""
+
+#: unit1.sbr029
+msgid "Concordance loaded in"
+msgstr ""
+
+#: unit1.srb001
+msgctxt "unit1.srb001"
+msgid "Sort by recurrences"
+msgstr ""
+
+#: unit1.srb002
+msgid "Sort by words"
+msgstr ""
+
